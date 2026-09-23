@@ -11,3 +11,5 @@ Hello, I am a B.Tech student specializing in Artificial Intelligence and Data Sc
 - Quiz with Time - A Python-based mini project.
 - IoT Smart Door Lock System - An IoT project focused on smart access control.
 - Portfolio Website - A personal website showcasing my skills and projects.
+## Project Highlights
+My projects demonstrate my interest in programming, artificial intelligence, data science, and practical technology solutions.
